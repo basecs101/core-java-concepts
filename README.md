@@ -1,5 +1,5 @@
 # Java-Sample-Programs
-Daily java practice codes
+## Daily Java Practice Codes
 - Java Architecture
   - JDK
   - JRE
@@ -24,7 +24,7 @@ Daily java practice codes
   - Protected
   - Public
  - Primitive Data Type Casting --> int ->float and int -> byte
- - Constructor
+- Constructor
   - Rules
   - Types
   - Overloading
