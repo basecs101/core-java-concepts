@@ -1,4 +1,4 @@
-# java-sample-programs
+# Java-Sample-Programs
 Daily java practice codes
 - Java Architecture
   - JDK
