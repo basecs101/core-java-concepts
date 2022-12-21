@@ -1,2 +1,38 @@
 # java-sample-programs
 Daily java practice codes
+- Java Architecture
+  - JDK
+  - JRE
+  - JVM
+- Java Source code(.java file) and ByteCode(.class file)
+- Number System
+- Memory Types 
+  - PM
+  - SM
+  - Cache
+- Installation of JDK and Running HelloWorld.java program, and IntelliJ Idea Basics.
+- DataTypes
+  - Primitive and Non Primitive
+- Conditional Statement - if , if else and multiple if else
+- Control Statement - Switch
+- Loops - while and do-while
+- Classes and Objects
+- Packages
+- Access Modifiers
+  - Private
+  - Default
+  - Protected
+  - Public
+ - Primitive Data Type Casting --> int ->float and int -> byte
+ - Constructor
+  - Rules
+  - Types
+  - Overloading
+  - Chaining
+- Inheritance 
+  - Definition
+  - Rule
+  - Types
+  - Upcasting and downcasting
+- Encapsulation
+- Composition
