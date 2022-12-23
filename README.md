@@ -23,7 +23,7 @@
   - Default
   - Protected
   - Public
- - Primitive Data Type Casting --> int ->float and int -> byte
+ - Primitive Data and Type Casting --> int ->float and int -> byte
 - Constructor
   - Rules
   - Types
@@ -33,6 +33,6 @@
   - Definition
   - Rule
   - Types
-  - Upcasting and downcasting
+  - Upcasting and down-casting
 - Encapsulation
 - Composition
