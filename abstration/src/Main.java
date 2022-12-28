@@ -6,15 +6,16 @@ import shapes.Triangle;
 
 public class Main {
     public static void main(String[] args) {
-        String msg = "Area of : ";
         Shape circle = new Circle();
         Shape square = new Square();
         Shape rectangle = new Rectangle();
         Shape triangle = new Triangle();
 
-        System.out.println(msg + circle.getClass().getName() + " = " + circle.calculateArea(10,10));
-        System.out.println(msg + square.getClass().getName() + " = " + square.calculateArea(10,10));
-        System.out.println(msg + rectangle.getClass().getName() + " = " + rectangle.calculateArea(10,20));
-        System.out.println(msg + triangle.getClass().getName() + " = " + triangle.calculateArea(10,20));
+
+        circle.displayArea(10,10);
+        square.displayArea(10,10);
+        rectangle.displayArea(10,20);
+        triangle.displayArea(10,20);
+
     }
 }
