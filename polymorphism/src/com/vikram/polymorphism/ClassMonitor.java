@@ -1,4 +1,6 @@
-public class ClassMonitor extends Student{
+package com.vikram.polymorphism;
+
+public class ClassMonitor extends Student {
     public void monitorClass(){
         System.out.println("Monitor is monitoring the class");
     }
@@ -46,7 +48,7 @@ public class ClassMonitor extends Student{
 
     @Override
     public String toString() {
-        return "ClassMonitor{"+ super.toString()+"}";
+        return "com.vikram.polymorphism.ClassMonitor{"+ super.toString()+"}";
     }
 
     @Override

@@ -1,3 +1,5 @@
+package com.vikram.polymorphism;
+
 public class Student {
     private String name;
     private int rollNumber;
@@ -52,7 +54,7 @@ public class Student {
 
     @Override
     public String toString() {
-        return "Student{" +
+        return "com.vikram.polymorphism.Student{" +
                 "name='" + name + '\'' +
                 ", rollNumber=" + rollNumber +
                 ", id=" + id +
@@ -60,24 +62,24 @@ public class Student {
     }
 
     public void doStudy(){
-        System.out.println("Student is Studying");
+        System.out.println("com.vikram.polymorphism.Student is Studying");
     }
 
     public void doStudy(String subject){
-        System.out.println("Student is studying " + subject);
+        System.out.println("com.vikram.polymorphism.Student is studying " + subject);
     }
 
 //    private int doStudy(String subject){
-//        System.out.println("Student is studying " + subject);
+//        System.out.println("com.vikram.polymorphism.Student is studying " + subject);
 //        return 10;
 //    }
 
     public void commute(){
-        System.out.println("Student is commuting");
+        System.out.println("com.vikram.polymorphism.Student is commuting");
     }
 
     void play(){
-        System.out.println("Student is Playing");
+        System.out.println("com.vikram.polymorphism.Student is Playing");
     }
 
     Object studentDetails(){
