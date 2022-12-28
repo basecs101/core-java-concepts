@@ -36,3 +36,9 @@
   - Upcasting and down-casting
 - Encapsulation
 - Composition
+- Polymorphism
+  - Overloading/static polymorphism/ compile time polymorphism
+  - Overriding/ dynamic polymorphism/ runtime polymorphism
+- Abstraction 
+  - Interfaces --> full abstraction
+  - Abstract class --> partial abstraction
