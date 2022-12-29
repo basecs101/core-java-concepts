@@ -11,8 +11,8 @@
   - Binary, Decimal, Octal and Hexadecimal
   - Conversion from binary to decimal and vice-versa
 - Memory Types
-  - PM
-  - SM
+  - PM / RAM
+  - SM / ROM
   - Cache
 - Installation of JDK and Running HelloWorld.java program, and IntelliJ Idea Basics.
 - DataTypes
