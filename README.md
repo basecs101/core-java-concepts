@@ -53,7 +53,11 @@
   - Types
   - Upcasting and down-casting
 - Encapsulation
+  - what is encapsulation and why do we need it
+  - POJO and Beans
 - Composition
+  - what is composition and how to implement it
+  - How composition and inheritance are different
 - Polymorphism
   - Overloading/static polymorphism/ compile time polymorphism
   - Overriding/ dynamic polymorphism/ runtime polymorphism
