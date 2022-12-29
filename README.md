@@ -1,5 +1,5 @@
 # Java-Sample-Programs
-## Daily Java Practice Codes
+## Exploring almost everything in core java
 - Java Architecture
   - JDK
   - JRE
