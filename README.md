@@ -61,7 +61,15 @@
 - Polymorphism
   - Overloading/static polymorphism/ compile time polymorphism
   - Overriding/ dynamic polymorphism/ runtime polymorphism
-- Abstraction 
+- Abstraction
   - Interfaces --> full abstraction
   - Abstract class --> partial abstraction
   - Diamond problem and solution
+    //future topics
+- Immutable class and String, String Pool, Wrapper classes.
+- String, StringBuilder and StringBuffer
+- Enum and their usage
+- Java IO packages and their different classes
+- Java generics
+- Java 8 features
+- Comparator and Comparable
