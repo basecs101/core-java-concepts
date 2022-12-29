@@ -65,7 +65,9 @@
   - Interfaces --> full abstraction
   - Abstract class --> partial abstraction
   - Diamond problem and solution
-    //future topics
+
+//future topics
+
 - Immutable class and String, String Pool, Wrapper classes.
 - String, StringBuilder and StringBuffer
 - Enum and their usage
