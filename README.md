@@ -18,25 +18,25 @@
   - Loops - while and do-while
     - Java Comments and Java Doc
     - Single line comment
-    > // hello single line comment
+      > // hello single line comment
     - Multiline comment
     > /*
     >   Hello from
     >   multi line comment
     >   */
     - Java Doc
-    > /**
-    >  * Hello From Java doc
-    >  * One more line
-         >  */
+      > /**
+      >  * Hello From Java doc
+      >  * One more line
+           >  */
 - Classes and Objects
 - Packages
-- Access Modifiers
+- Access Modifiers/ Access Level/ Access Specifier
   - Private
   - Default
   - Protected
   - Public
- - Primitive Data and Type Casting --> int ->float and int -> byte
+- Primitive Data and Type Casting --> int ->float and int -> byte
 - Constructor
   - Rules
   - Types
