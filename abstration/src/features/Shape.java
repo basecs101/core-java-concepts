@@ -12,9 +12,18 @@ package features;
  *
  * @author Vikram Gupta
  */
+
+
 public interface Shape {
     float PI = 3.142f;//public static final float PI = 3.142f;
 
+    /**
+     * This method calculates area of different shapes
+     *
+     * @param x first parameter
+     * @param y second parameter
+     * @return float returns area
+     */
     float calculateArea(int x, int y);//method declaration
 
     void displayArea(int x, int y);//method declaration
