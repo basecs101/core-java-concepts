@@ -1,12 +1,16 @@
 # Java-Sample-Programs
 ## Exploring almost everything in core java
+- Java Introduction
+  - what, why and how @ Java Programming
 - Java Architecture
-  - JDK
-  - JRE
-  - JVM
+  - Java development Kit `JDK`
+  - Java Runtime Environment `JRE`
+  - Java Virtual Machine `JVM`
 - Java Source code(.java file) and ByteCode(.class file)
 - Number System
-- Memory Types 
+  - Binary, Decimal, Octal and Hexadecimal
+  - Conversion from binary to decimal and vice-versa
+- Memory Types
   - PM
   - SM
   - Cache
