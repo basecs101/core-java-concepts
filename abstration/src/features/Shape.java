@@ -14,6 +14,7 @@ package features;
  */
 public interface Shape {
     float PI = 3.142f;//public static final float PI = 3.142f;
+
     float calculateArea(int x, int y);//method declaration
 
     void displayArea(int x, int y);//method declaration

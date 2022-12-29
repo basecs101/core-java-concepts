@@ -42,3 +42,4 @@
 - Abstraction 
   - Interfaces --> full abstraction
   - Abstract class --> partial abstraction
+  - Diamond problem and solution
