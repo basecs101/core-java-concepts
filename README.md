@@ -82,4 +82,5 @@
 - Set
 - Queue
 - Map
+- Collections.sort(<List>) and Arrays.sort(<Array>)
 - Comparator and Comparable
