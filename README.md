@@ -75,4 +75,11 @@
 - Java IO package and their different classes
 - Java generics
 - Java 8 features
+
+//Collection
+
+- List
+- Set
+- Queue
+- Map
 - Comparator and Comparable
