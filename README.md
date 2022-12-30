@@ -46,7 +46,7 @@
   - Types
   - Overloading
   - Chaining
-- `this` and `super` keywords And `this()` and `super()`
+- `this` and `super` keywords And `this()` and `super()` calls
 - Inheritance
   - Definition
   - Rule
@@ -68,10 +68,11 @@
 
 //future topics
 
+- Anonymous class and inner classes
 - Immutable class and String, String Pool, Wrapper classes.
 - String, StringBuilder and StringBuffer
 - Enum and their usage
-- Java IO packages and their different classes
+- Java IO package and their different classes
 - Java generics
 - Java 8 features
 - Comparator and Comparable
