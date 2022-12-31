@@ -66,7 +66,11 @@
   - Abstract class --> partial abstraction
   - Diamond problem and solution
   - Immutable class and String, String Pool, Wrapper classes.
-
+- Java IO
+  - Scanner and Print Stream
+  - File reader/writer
+  - Buffered reader and writer
+  - Input Stream reader and writer
 //future topics
 
 - Anonymous class and inner classes
