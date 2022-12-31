@@ -65,11 +65,11 @@
   - Interfaces --> full abstraction
   - Abstract class --> partial abstraction
   - Diamond problem and solution
+  - Immutable class and String, String Pool, Wrapper classes.
 
 //future topics
 
 - Anonymous class and inner classes
-- Immutable class and String, String Pool, Wrapper classes.
 - String, StringBuilder and StringBuffer
 - Enum and their usage
 - Java IO package and their different classes

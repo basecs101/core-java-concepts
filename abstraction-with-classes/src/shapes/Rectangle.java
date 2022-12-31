@@ -4,12 +4,15 @@ import features.Shape;
 
 public class Rectangle extends Shape {
 
-    public Rectangle() {
-        super();
+    float length, breadth;
+
+    public Rectangle(float length, float breadth) {
+        this.length = length;
+        this.breadth = breadth;
     }
 
     @Override
-    public void calculateArea(float x, float y) {
-        area = x * y;
+    public void calculateArea() {
+        area = this.length * this.breadth;
     }
 }

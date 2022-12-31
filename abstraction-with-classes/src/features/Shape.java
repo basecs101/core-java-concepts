@@ -13,9 +13,9 @@ public abstract class Shape {
     public Shape() {
     }
 
-    public abstract void calculateArea(float x, float y);
-
     public void displayArea() {
         System.out.println("Area of " + this.getClass().getName() + " is " + area);
     }
+
+    public abstract void calculateArea();
 }
