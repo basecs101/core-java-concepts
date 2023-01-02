@@ -1,3 +1,6 @@
+/**
+ * Demonstrate immutable class creation and its rules
+ */
 public final class Employee {
     private final String name;
     private final int salary;
