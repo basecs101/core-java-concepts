@@ -7,6 +7,7 @@
   - Java Runtime Environment `JRE`
   - Java Virtual Machine `JVM`
 - Java Source code(.java file) and ByteCode(.class file)
+- What is classpath and how to set it.
 - Number System
   - Binary, Decimal, Octal and Hexadecimal
   - Conversion from binary to decimal and vice-versa
@@ -52,7 +53,7 @@
   - Rule
   - Types
   - Upcasting and down-casting
-- Encapsulation
+- [Encapsulation](https://medium.com/@basecs101/are-you-confused-with-encapsulation-clear-it-now-updated-30bd6ca66bfa)
   - what is encapsulation and why do we need it
   - POJO and Beans
 - Composition
@@ -66,6 +67,13 @@
   - Abstract class --> partial abstraction
   - Diamond problem and solution
   - Immutable class and String, String Pool, Wrapper classes.
+      1. Make all fields private
+      2. Create all argument constructor
+      3. Remove All setters
+      4. Use deep clone for objects in the constructor and getter methods
+      5. Make class as final
+      6. Optional rule - make all fields as final
+
 - Java IO
   - Scanner and Print Stream
   - File reader/writer

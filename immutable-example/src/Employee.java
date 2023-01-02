@@ -1,8 +1,8 @@
-public class Employee {
-    private String name;
-    private int salary;
-    private int id;
-    private Address address;
+public final class Employee {
+    private final String name;
+    private final int salary;
+    private final int id;
+    private final Address address;
 
     public Employee(String name, int salary, int id, Address address) {
         this.name = name;
