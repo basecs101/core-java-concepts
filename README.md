@@ -74,7 +74,7 @@
     4. Use deep clone for objects in the constructor and getter methods
     5. Make class as final
     6. Optional rule - make all fields as final
-- String, StringBuilder and StringBufferExamples
+- String, StringBuilder and StringBuffer
 - Anonymous class and inner classes
 - Enum and their usage
 - Exception Handling and their types
