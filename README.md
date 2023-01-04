@@ -7,7 +7,7 @@
   - Java Runtime Environment `JRE`
   - Java Virtual Machine `JVM`
 - Java Source code(.java file) and ByteCode(.class file)
-- What is classpath and how to set it.
+- [What is classpath and how to set it.](https://medium.com/@basecs101/do-you-know-classpath-in-java-latest-2800574878c)
 - Number System
   - Binary, Decimal, Octal and Hexadecimal
   - Conversion from binary to decimal and vice-versa
@@ -67,14 +67,14 @@
     - Interfaces --> full abstraction
     - Abstract class --> partial abstraction
     - Diamond problem and solution
-- Immutable class and String, String Pool, Wrapper classes.
+- [Immutable class and String, String Pool, Wrapper classes.](https://medium.com/javarevisited/do-you-know-immutable-class-in-java-why-string-is-immutable-dc18b0cec4b9)
     1. Make all fields private
     2. Create all argument constructor
     3. Remove All setters
     4. Use deep clone for objects in the constructor and getter methods
     5. Make class as final
     6. Optional rule - make all fields as final
-- String, StringBuilder and StringBuffer
+- String, StringBuilder and StringBufferExamples
 - Anonymous class and inner classes
 - Enum and their usage
 - Exception Handling and their types
