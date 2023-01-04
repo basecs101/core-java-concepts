@@ -48,43 +48,36 @@
   - Overloading
   - Chaining
 - `this` and `super` keywords And `this()` and `super()` calls
-- Inheritance
-  - Definition
-  - Rule
-  - Types
-  - Upcasting and down-casting
-- [Encapsulation](https://medium.com/@basecs101/are-you-confused-with-encapsulation-clear-it-now-updated-30bd6ca66bfa)
-  - what is encapsulation and why do we need it
-  - POJO and Beans
-- Composition
-  - what is composition and how to implement it
-  - How composition and inheritance are different
-- Polymorphism
-  - Overloading/static polymorphism/ compile time polymorphism
-  - Overriding/ dynamic polymorphism/ runtime polymorphism
-- Abstraction
-  - Interfaces --> full abstraction
-  - Abstract class --> partial abstraction
-  - Diamond problem and solution
-  - Immutable class and String, String Pool, Wrapper classes.
-      1. Make all fields private
-      2. Create all argument constructor
-      3. Remove All setters
-      4. Use deep clone for objects in the constructor and getter methods
-      5. Make class as final
-      6. Optional rule - make all fields as final
-
-- Java IO
-  - Scanner and Print Stream
-  - File reader/writer
-  - Buffered reader and writer
-  - Input Stream reader and writer
-//future topics
-
-- Anonymous class and inner classes
+- OOP paradigm
+  - Inheritance
+    - Definition
+    - Rule
+    - Types
+    - Upcasting and down-casting
+  - [Encapsulation](https://medium.com/@basecs101/are-you-confused-with-encapsulation-clear-it-now-updated-30bd6ca66bfa)
+    - what is encapsulation and why do we need it
+    - POJO and Beans
+  - Composition
+    - what is composition and how to implement it
+    - How composition and inheritance are different
+  - Polymorphism
+    - Overloading/static polymorphism/ compile time polymorphism
+    - Overriding/ dynamic polymorphism/ runtime polymorphism
+  - Abstraction
+    - Interfaces --> full abstraction
+    - Abstract class --> partial abstraction
+    - Diamond problem and solution
+- Immutable class and String, String Pool, Wrapper classes.
+    1. Make all fields private
+    2. Create all argument constructor
+    3. Remove All setters
+    4. Use deep clone for objects in the constructor and getter methods
+    5. Make class as final
+    6. Optional rule - make all fields as final
 - String, StringBuilder and StringBuffer
+- Anonymous class and inner classes
 - Enum and their usage
-- Java IO package and their different classes
+- Exception Handling and their types
 - Java generics
 - Java 8 features
 

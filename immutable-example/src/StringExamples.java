@@ -4,6 +4,10 @@ public class StringExamples {
         String name2 = "Mike";
         String name3 = "Mike";
 
+        System.out.println("hashcode for name2 : "+name2.hashCode());
+        System.out.println("hashcode for name3 : "+name3.hashCode());
+
+
         String name4 = new String("Mike Tyson");
 
         String name5 = name4.intern();
