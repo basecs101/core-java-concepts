@@ -62,6 +62,7 @@ public class LinkedListExample {
         linkedList.addNode(head, fourth);
 
         linkedList.printList(head);
+
     }
 
 
