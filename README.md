@@ -75,7 +75,7 @@
     5. Make class as final
     6. Optional rule - make all fields as final
 - String, StringBuilder and StringBuffer
-- Anonymous class and inner classes
+- [Anonymous class and inner classes](https://medium.com/@basecs101/do-you-know-nested-and-inner-classes-in-java-latest-b270e0988091)
 - Enum and their usage
 - Exception Handling and their types
 - Java generics
