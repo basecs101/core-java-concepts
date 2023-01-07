@@ -89,9 +89,10 @@
 20. [String, StringBuilder and StringBuffer](https://medium.com/@basecs101/string-stringbuilder-and-stringbuffer-a-complete-guide-5ddd083a2ad5)
 21. [Anonymous class and inner classes](https://medium.com/@basecs101/do-you-know-nested-and-inner-classes-in-java-latest-b270e0988091)
 22. Enum and their usage
-23. Exception Handling and their types
+23. [Syntax Error, Exception, and Errors and Exception Handling Mechanism and their types](https://medium.com/@basecs101/exceptions-checked-and-unchecked-exceptions-and-handling-methods-in-java-a-complete-guide-latest-fc07b0bc381)
 24. Java generics and how to use them.
-25. Java 8 features
+25. [How Final, finally and finalize() different](https://medium.com/@basecs101/know-the-differences-between-final-finally-and-finalize-in-java-latest-668e65c5e9d5)
+26. Java 8 features
     1. Functional Interface
     2. default and static methods
     3. Lambda expression
