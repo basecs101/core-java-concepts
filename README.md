@@ -91,14 +91,14 @@
 22. [Anonymous class and inner classes](https://medium.com/@basecs101/do-you-know-nested-and-inner-classes-in-java-latest-b270e0988091)
 23. [Enum and their usage](https://medium.com/@basecs101/confused-with-enum-here-is-an-article-to-clear-it-latest-e39d88fe7c66)
 24. [Syntax Error, Exception, and Errors and Exception Handling Mechanism and their types](https://medium.com/@basecs101/exceptions-checked-and-unchecked-exceptions-and-handling-methods-in-java-a-complete-guide-latest-fc07b0bc381)
-25. Java generics and how to use them.
+25. [Java generics and how to use them.](https://medium.com/@basecs101/java-generics-why-are-they-used-interview-questions-8367e1266c8c)
 26. [How Final, finally and finalize() different](https://medium.com/@basecs101/know-the-differences-between-final-finally-and-finalize-in-java-latest-668e65c5e9d5)
 27. [Loose and Tight CCoupling and why always prefer loose coupling over tight coupling](https://medium.com/@basecs101/do-you-know-the-tight-and-loose-coupling-in-the-oop-latest-b03f8e600115)
 28. Java 8 features
-    1. Functional Interface
-    2. default and static methods
-    3. Lambda expression
-    4. Stream APIs
+    1. [Functional Interface](https://medium.com/@basecs101/java-8-functional-interface-the-feature-that-you-must-know-latest-b2a539bb7917)
+    2. [default and static methods](https://medium.com/@basecs101/java-8-new-features-that-you-must-know-latest-751297051795)
+    3. [Lambda expression](https://medium.com/@basecs101/java-8-lambda-expression-the-feature-that-you-must-know-lastest-e0d9f8a8bc13)
+    4. [Stream APIs](https://medium.com/@basecs101/java-8-frequently-used-stream-methods-latest-interview-questions-126a7d370cfd) and [refer this doc also](https://medium.com/@basecs101/java-8-features-interview-questions-stream-apis-interview-questions-updated-37f50f1ad5b5)
     5. Java Optional
 29. [Is Java Pass by value or pass by reference](https://medium.com/@basecs101/is-java-pass-by-value-or-pass-by-reference-73a73b0c2234)
 
