@@ -53,28 +53,28 @@
     4. Public
 14. Primitive Data and their Type Casting 
     > int to float and int to byte and other primitives
-15. Constructor
+15. [Everything about Constructor](https://medium.com/@basecs101/constructors-constructor-overloading-and-constructor-chaining-in-java-complete-guide-latest-c10cb8a244bd)
     1. Rules
     2. Types
     3. Overloading
     4. Chaining
-16. `this` and `super` keywords and their usages And `this()` and `super()` calls
+16. [`this` and `super` keywords and their usages And `this()` and `super()` calls](https://medium.com/@basecs101/difference-between-this-and-super-keywords-and-this-and-super-calls-in-java-220053cf7d39)
 17. OOP paradigm
-    1. Inheritance
+    1. [Inheritance](https://medium.com/@basecs101/what-is-inheritance-and-composition-in-java-check-the-differences-updated-37b8fe54cf80)
         - Definition
         - Rule
         - Types
         - [Upcasting and down-casting](https://medium.com/@basecs101/what-is-up-casting-and-down-casting-in-java-latest-ca114ef76a5f)
-    2. Composition
+    2. [Composition](https://medium.com/@basecs101/what-is-inheritance-and-composition-in-java-check-the-differences-updated-37b8fe54cf80)
        - what is composition and how to implement it
        - How composition and inheritance are different
     3. [Encapsulation](https://medium.com/@basecs101/are-you-confused-with-encapsulation-clear-it-now-updated-30bd6ca66bfa)
         - what is encapsulation and why do we need it
-        - POJO and Beans and their differences
-    4. Polymorphism
+        - [POJO and Beans and their differences](https://medium.com/@basecs101/what-do-pojo-and-bean-mean-in-java-how-are-they-different-latest-9555824e13a9)
+    4. [Polymorphism](https://medium.com/@basecs101/what-is-method-overloading-and-method-overriding-in-java-latest-a7b74f83b7b6)
         - Overloading/static polymorphism/ compile time polymorphism
         - Overriding/ dynamic polymorphism/ runtime polymorphism
-    5. Abstraction
+    5. [Abstraction](https://medium.com/@basecs101/why-you-must-know-abstraction-latest-6f11a85c50f0)
         - Interfaces --> full abstraction
         - Abstract class --> partial abstraction
         - Diamond problem and solution
@@ -88,16 +88,18 @@
 19. [Everything you need to know about String Constant Pool](https://medium.com/javarevisited/what-does-string-pool-mean-in-java-996f0554e1dc)
 20. [String, StringBuilder and StringBuffer](https://medium.com/@basecs101/string-stringbuilder-and-stringbuffer-a-complete-guide-5ddd083a2ad5)
 21. [Anonymous class and inner classes](https://medium.com/@basecs101/do-you-know-nested-and-inner-classes-in-java-latest-b270e0988091)
-22. Enum and their usage
+22. [Enum and their usage](https://medium.com/@basecs101/confused-with-enum-here-is-an-article-to-clear-it-latest-e39d88fe7c66)
 23. [Syntax Error, Exception, and Errors and Exception Handling Mechanism and their types](https://medium.com/@basecs101/exceptions-checked-and-unchecked-exceptions-and-handling-methods-in-java-a-complete-guide-latest-fc07b0bc381)
 24. Java generics and how to use them.
 25. [How Final, finally and finalize() different](https://medium.com/@basecs101/know-the-differences-between-final-finally-and-finalize-in-java-latest-668e65c5e9d5)
-26. Java 8 features
+26. [Loose and Tight CCoupling and why always prefer loose coupling over tight coupling](https://medium.com/@basecs101/do-you-know-the-tight-and-loose-coupling-in-the-oop-latest-b03f8e600115)
+27. Java 8 features
     1. Functional Interface
     2. default and static methods
     3. Lambda expression
     4. Stream APIs
     5. Java Optional
+28. [Is Java Pass by value or pass by reference](https://medium.com/@basecs101/is-java-pass-by-value-or-pass-by-reference-73a73b0c2234)
 
 //Collection
 - Stack
