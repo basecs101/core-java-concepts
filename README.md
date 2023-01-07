@@ -17,7 +17,7 @@
    - Secondary memory/Disk/ Read Only Memory
    - Cache and cache layering
    - Stack, Heaps and Method Areas
-6. Installation of JDK and Running HelloWorld.java program, and IntelliJ Idea Basics.
+6. [Installation of JDK and Running HelloWorld.java program, and IntelliJ Idea Basics.](https://docs.oracle.com/en/java/javase/11/install/installation-jdk-microsoft-windows-platforms.html#GUID-A7E27B90-A28D-4237-9383-A58B416071CA)
 7. DataTypes
    - Primitive(8 primitive types and their wrapper classes) 
    - and Non-Primitive(classes and arrays)
@@ -64,7 +64,7 @@
         - Definition
         - Rule
         - Types
-        - Upcasting and down-casting
+        - [Upcasting and down-casting](https://medium.com/@basecs101/what-is-up-casting-and-down-casting-in-java-latest-ca114ef76a5f)
     2. Composition
        - what is composition and how to implement it
        - How composition and inheritance are different
@@ -85,12 +85,13 @@
     4. Use deep clone for objects in the constructor and getter methods
     5. Make class as final
     6. Optional rule - make all fields as final
-19. [String, StringBuilder and StringBuffer](https://medium.com/@basecs101/string-stringbuilder-and-stringbuffer-a-complete-guide-5ddd083a2ad5)
-20. [Anonymous class and inner classes](https://medium.com/@basecs101/do-you-know-nested-and-inner-classes-in-java-latest-b270e0988091)
-21. Enum and their usage
-22. Exception Handling and their types
-23. Java generics and how to use them.
-24. Java 8 features
+19. [Everything you need to know about String Constant Pool](https://medium.com/javarevisited/what-does-string-pool-mean-in-java-996f0554e1dc)
+20. [String, StringBuilder and StringBuffer](https://medium.com/@basecs101/string-stringbuilder-and-stringbuffer-a-complete-guide-5ddd083a2ad5)
+21. [Anonymous class and inner classes](https://medium.com/@basecs101/do-you-know-nested-and-inner-classes-in-java-latest-b270e0988091)
+22. Enum and their usage
+23. Exception Handling and their types
+24. Java generics and how to use them.
+25. Java 8 features
     1. Functional Interface
     2. default and static methods
     3. Lambda expression
