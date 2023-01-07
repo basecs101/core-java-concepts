@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class ExceptionExample {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter first value : ");
