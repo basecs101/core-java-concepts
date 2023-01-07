@@ -60,7 +60,7 @@
     3. Overloading
     4. Chaining
 17. [`this` and `super` keywords and their usages And `this()` and `super()` calls](https://medium.com/@basecs101/difference-between-this-and-super-keywords-and-this-and-super-calls-in-java-220053cf7d39)
-18. OOP paradigm
+18. Object Oriented Programming Paradigms
     1. [Inheritance](https://medium.com/@basecs101/what-is-inheritance-and-composition-in-java-check-the-differences-updated-37b8fe54cf80)
         - Definition
         - Rule
@@ -101,15 +101,5 @@
     4. [Stream APIs](https://medium.com/@basecs101/java-8-frequently-used-stream-methods-latest-interview-questions-126a7d370cfd) and [refer this doc also](https://medium.com/@basecs101/java-8-features-interview-questions-stream-apis-interview-questions-updated-37f50f1ad5b5)
     5. Java Optional
 29. [Is Java Pass by value or pass by reference](https://medium.com/@basecs101/is-java-pass-by-value-or-pass-by-reference-73a73b0c2234)
-
-//Collection
-- Stack
-- Queue
-- List
-- Set
-- Map
-- Collections.sort(<List>) and Arrays.sort(<Array>)
-- Comparator and Comparable
-
 
 Program reference - https://www.programiz.com/java-programming/examples
