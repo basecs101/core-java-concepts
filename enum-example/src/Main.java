@@ -5,7 +5,7 @@ enum Seasons {
     MONSOON("Monsoon is okay"); // public static final Seasons MONSOON = new Seasons("Monsoon is okay");
     String msg;
 
-    private Seasons(String msg) {
+    Seasons(String msg) {
         this.msg = msg;
     }
 
@@ -19,11 +19,9 @@ enum Seasons {
 }
 public class Main {
     public static void main(String[] args) throws InterruptedException {
-
         for (Seasons season : Seasons.values()){
             Thread.sleep(1000);
             System.out.println(season.name() + " "+ season.msg);
         }
-
     }
 }
