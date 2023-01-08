@@ -6,18 +6,20 @@ import java.util.Scanner;
 
 public class CheckedExceptionExample {
     public static void main(String[] args) {
-        try{
-            readFromAFile();
-        } catch (FileNotFoundException fileNotFoundException){
-            System.out.println("File not found exception occurred");
-        }
+//        try{
+//            readFromAFile();
+//        } catch (FileNotFoundException fileNotFoundException){
+//            System.out.println("File not found exception occurred");
+//        }
+        readFromAFile();
     }
 
-    /*static void readFromAFile() {
+    static void readFromAFile() {
 
-        Scanner scanner;
+        File file = new File("C:\\Users\\Shree\\IdeaProjects\\core-java-concepts\\exception-examples\\src\\ErrorExample1.java");
+
+        Scanner scanner = null;
         try {
-            File file = new File("C:\\Users\\Shree\\IdeaProjects\\core-java-concepts\\exception-examples\\src\\ErrorExample1.java");
 
             scanner = new Scanner(file);
             while (scanner.hasNext()){
@@ -26,17 +28,19 @@ public class CheckedExceptionExample {
 
         }catch (FileNotFoundException fileNotFoundException){
             System.out.println("File is not present");
-        }
-    }*/
-
-    static void readFromAFile() throws FileNotFoundException{
-
-        Scanner scanner;
-        File file = new File("C:\\Users\\Shree\\IdeaProjects\\core-java-concepts\\exception-examples\\src\\ErrorExample1.java");
-
-        scanner = new Scanner(file);
-        while (scanner.hasNext()) {
-            System.out.println(scanner.nextLine());
+        } finally{
+            scanner.close();
         }
     }
+
+//    static void readFromAFile() throws FileNotFoundException{
+//
+//        Scanner scanner;
+//        File file = new File("C:\\Users\\Shree\\IdeaProjects\\core-java-concepts\\exception-examples\\src\\ErrorExample1.java");
+//
+//        scanner = new Scanner(file);
+//        while (scanner.hasNext()) {
+//            System.out.println(scanner.nextLine());
+//        }
+//    }
 }
