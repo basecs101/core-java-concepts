@@ -13,7 +13,7 @@
    - Binary, Decimal, Octal and Hexadecimal
    - Conversion from binary to decimal and vice-versa
 5. Memory Types
-   - Primary memory/GenericsExamples Memory/ Random Access Memory
+   - Primary memory/Main Memory/ Random Access Memory
    - Secondary memory/Disk/ Read Only Memory
    - Cache and cache layering
    - Stack, Heaps and Method Areas
