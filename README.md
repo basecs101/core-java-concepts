@@ -13,7 +13,7 @@
    - Binary, Decimal, Octal and Hexadecimal
    - Conversion from binary to decimal and vice-versa
 5. Memory Types
-   - Primary memory/Main Memory/ Random Access Memory
+   - Primary memory/GenericsExamples Memory/ Random Access Memory
    - Secondary memory/Disk/ Read Only Memory
    - Cache and cache layering
    - Stack, Heaps and Method Areas
@@ -97,8 +97,8 @@
     - > `Exception` - The class Exception and its subclasses are a form of Throwable that indicates conditions that a reasonable application might want to catch.
       The class Exception and any subclasses that are not also subclasses of RuntimeException are checked exceptions. Checked exceptions need to be declared in a method or constructor's throws clause if they can be thrown by the execution of the method or constructor and propagate outside the method or constructor boundary.
 25. [Java generics and how to use them.](https://medium.com/@basecs101/java-generics-why-are-they-used-interview-questions-8367e1266c8c)
-26. [How Final, finally and finalize() different](https://medium.com/@basecs101/know-the-differences-between-final-finally-and-finalize-in-java-latest-668e65c5e9d5)
-27. [Loose and Tight CCoupling and why always prefer loose coupling over tight coupling](https://medium.com/@basecs101/do-you-know-the-tight-and-loose-coupling-in-the-oop-latest-b03f8e600115)
+26. [How final, finally and finalize() different](https://medium.com/@basecs101/know-the-differences-between-final-finally-and-finalize-in-java-latest-668e65c5e9d5)
+27. [Loose and Tight Coupling and why always prefer loose coupling over tight coupling](https://medium.com/@basecs101/do-you-know-the-tight-and-loose-coupling-in-the-oop-latest-b03f8e600115)
 28. Java 8 features
     1. [Functional Interface](https://medium.com/@basecs101/java-8-functional-interface-the-feature-that-you-must-know-latest-b2a539bb7917)
     2. [default and static methods](https://medium.com/@basecs101/java-8-new-features-that-you-must-know-latest-751297051795)
