@@ -31,12 +31,12 @@ public class GenericsExamples {
         myInt.add(10);
         myInt.add(20);
         myInt.add(25);
+        //myInt.add(10.0f) this will not work
 
         Integer x = myInt.iterator().next();//no explicit casting bz next return Integer that is generic.
 
-        for (Integer integer:
-             myInt) {
-            System.out.println(integer);
+        for (Integer i: myInt) {
+            System.out.println(i);
         }
 
         //List of Strings
@@ -47,9 +47,8 @@ public class GenericsExamples {
 
         String name = myStringList.get(1);
 
-        for (String string:
-             myStringList) {
-            System.out.println(string);
+        for (String s: myStringList) {
+            System.out.println(s);
         }
 
         //List of random items
