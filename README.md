@@ -103,7 +103,7 @@
     1. [Functional Interface](https://medium.com/@basecs101/java-8-functional-interface-the-feature-that-you-must-know-latest-b2a539bb7917)
     2. [default and static methods](https://medium.com/@basecs101/java-8-new-features-that-you-must-know-latest-751297051795)
     3. [Lambda expression](https://medium.com/@basecs101/java-8-lambda-expression-the-feature-that-you-must-know-lastest-e0d9f8a8bc13)
-    4. [Stream APIs](https://medium.com/@basecs101/java-8-frequently-used-stream-methods-latest-interview-questions-126a7d370cfd) and [refer this doc also](https://medium.com/@basecs101/java-8-features-interview-questions-stream-apis-interview-questions-updated-37f50f1ad5b5)
+    4. [Stream APIs](https://medium.com/@basecs101/java-8-features-interview-questions-stream-apis-interview-questions-updated-37f50f1ad5b5) and [More Stream methods](https://medium.com/@basecs101/java-8-frequently-used-stream-methods-latest-interview-questions-126a7d370cfd)
     5. Java Optional
 29. [Is Java Pass by value or pass by reference](https://medium.com/@basecs101/is-java-pass-by-value-or-pass-by-reference-73a73b0c2234)
 
