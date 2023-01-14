@@ -13,7 +13,7 @@ class Employee {
         this.salary = salary;
     }
 }
-public class Main {
+public class EmployeeStreamExample {
     public static void main(String[] args) {
 
         List<Employee> employeeList = new ArrayList<>();
@@ -29,8 +29,16 @@ public class Main {
                 employee.name +" "+ "Salary : "+employee.salary));
 
         System.out.println("**************************");
+
+
+//        Stream<Employee> employeeStream = employeeList.stream();
+//
+//        Stream<Employee> employeeStream1 = employeeStream.sorted(Comparator.comparing(employee -> employee.name));
+//
+//        employeeStream1.forEach(employee ->  System.out.println("Name : "+
+//                        employee.name +" "+ "Salary : "+employee.salary));
         employeeList.stream()
-                .sorted(Comparator.comparing(employee -> employee.name))
+                .sorted(Comparator.comparing(employee -> employee.salary))
                 .forEach(employee ->  System.out.println("Name : "+
                         employee.name +" "+ "Salary : "+employee.salary));
     }
