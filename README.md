@@ -101,10 +101,20 @@
 27. [Loose and Tight Coupling and why always prefer loose coupling over tight coupling](https://medium.com/@basecs101/do-you-know-the-tight-and-loose-coupling-in-the-oop-latest-b03f8e600115)
 28. Java 8 features
     1. [Functional Interface](https://medium.com/@basecs101/java-8-functional-interface-the-feature-that-you-must-know-latest-b2a539bb7917) and [default and static methods](https://medium.com/@basecs101/java-8-new-features-that-you-must-know-latest-751297051795)
-    3. [Lambda expression](https://medium.com/@basecs101/java-8-lambda-expression-the-feature-that-you-must-know-lastest-e0d9f8a8bc13)
-    4. [Stream APIs](https://medium.com/@basecs101/java-8-features-interview-questions-stream-apis-interview-questions-updated-37f50f1ad5b5) and [More Stream methods](https://medium.com/@basecs101/java-8-frequently-used-stream-methods-latest-interview-questions-126a7d370cfd)
-    5. Java Optional
-    6. Method Reference
+    2. [Lambda expression](https://medium.com/@basecs101/java-8-lambda-expression-the-feature-that-you-must-know-lastest-e0d9f8a8bc13)
+    3. [Stream APIs](https://medium.com/@basecs101/java-8-features-interview-questions-stream-apis-interview-questions-updated-37f50f1ad5b5) and [More Stream methods](https://medium.com/@basecs101/java-8-frequently-used-stream-methods-latest-interview-questions-126a7d370cfd)
+    4. [Java Optional](https://www.baeldung.com/java-optional)
+       - > The purpose of the Optional class is to provide a type-level solution for representing `optional values` instead of `null references`.
+       - > To create an empty Optional object, we simply need to use its empty() static method: 
+         > `Optional<String> empty = Optional.empty();
+         assertFalse(empty.isPresent());`
+       - > We can also create an Optional object with the static method of():
+         > `String name = "baeldung";
+         Optional<String> opt = Optional.of(name);
+         assertTrue(opt.isPresent());` 
+         > However, the argument passed to the of() method can't be null. Otherwise, we'll get a NullPointerException:
+         
+    5. Method Reference
 29. [Is Java Pass by value or pass by reference](https://medium.com/@basecs101/is-java-pass-by-value-or-pass-by-reference-73a73b0c2234)
 
 Program reference - https://www.programiz.com/java-programming/examples
