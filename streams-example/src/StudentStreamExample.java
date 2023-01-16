@@ -1,5 +1,7 @@
+import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 class Student {
     String firstName;
@@ -35,7 +37,16 @@ public class StudentStreamExample {
 
         Stream<Student> studentStreamNew = studentList.stream();
 
-        long numberOfElements = studentStreamNew.count();
-        System.out.println(numberOfElements);
+        System.out.println(studentStreamNew.count());
+
+        Stream<Student> studentStreamNew2 = studentList.stream();
+
+        Stream<Integer> rollNumberStream = studentStreamNew2.map(student -> {
+            return student.rollNumber;
+        });
+
+        //Integer::intValue --> ClassName :: methodName
+        System.out.println("Sum of IDs: "+ rollNumberStream.mapToInt(Integer::intValue).sum());
+
     }
 }
