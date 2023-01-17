@@ -105,6 +105,7 @@
     3. [Stream APIs](https://medium.com/@basecs101/java-8-features-interview-questions-stream-apis-interview-questions-updated-37f50f1ad5b5) and [More Stream methods](https://medium.com/@basecs101/java-8-frequently-used-stream-methods-latest-interview-questions-126a7d370cfd)
     4. [Java Optional](https://www.baeldung.com/java-optional)
        - > The purpose of the Optional class is to provide a type-level solution for representing `optional values` instead of `null references`.
+       - > A container object which may or may not contain a non-null value. If a value is present, isPresent() returns true. If no value is present, the object is considered empty and isPresent() returns false.
        - > To create an empty Optional object, we simply need to use its empty() static method: 
          > `Optional<String> empty = Optional.empty();
          assertFalse(empty.isPresent());`
