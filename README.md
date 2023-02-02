@@ -79,7 +79,7 @@
         - Interfaces --> full abstraction
         - Abstract class --> partial abstraction
         - Diamond problem and solution
-19. [Immutable class and String, String Pool, Wrapper classes.](https://medium.com/javarevisited/do-you-know-immutable-class-in-java-why-string-is-immutable-dc18b0cec4b9)
+19. [Immutable class and String, String Pool](https://medium.com/javarevisited/do-you-know-immutable-class-in-java-why-string-is-immutable-dc18b0cec4b9)
     1. Make all fields private
     2. Create all argument constructor
     3. Remove All setters
@@ -119,4 +119,6 @@
     5. Method Reference
 29. [Is Java Pass by value or pass by reference](https://medium.com/@basecs101/is-java-pass-by-value-or-pass-by-reference-73a73b0c2234)
 30. Primitives and their Wrapper classes. Auto boxing and Auto unboxing.
-Program reference - https://www.programiz.com/java-programming/examples
+
+
+#### Program reference - https://www.programiz.com/java-programming/examples
