@@ -1,5 +1,6 @@
 package drivers;
 
+import a.b.c.C;
 import entities.Address;
 import entities.College;
 import entities.Employee;
@@ -37,6 +38,14 @@ public class Driver {
         System.out.println(college.toString());
         System.out.println(employee.toString());
         System.out.println(student.toString());
+
+
+
+        C objC = new C();
+//        objC.defaultVariable=10;
+
+        objC.publicVariable = 3000;
+
 
 
     }
